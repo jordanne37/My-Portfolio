@@ -90,3 +90,51 @@ body {
 .flex-row {
     display:flex;
 }
+
+.Work {
+    margin-bottom: 20px;
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 187, 0);
+    color: black;
+}
+
+.Contact {
+    margin-bottom: 20px;
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: pink;
+    color: black;
+}
+
+.Work h2 {
+    display: block;
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+
+.project img {
+    display: flex;
+    margin: 20px;
+    max-width: 550px;
+    margin-right: 400px;
+
+}
+
+.project1 img {
+    display: flex;
+    margin: 20px;
+    max-width: 550px;
+
+}
+
+.project p {
+    display: flex;
+    margin: 20px;
+}
+.project1 p {
+    display: flex;
+    margin: 20px;
+}
+
