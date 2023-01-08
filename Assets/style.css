@@ -54,18 +54,26 @@ body {
 
 .Jordan img{
     display: block;
+    width: 100%;
     margin: 20px;
     max-width: 300px;
+    height: auto;
 
 }
 /* .float-left{
     float: left;
 } */
 
-.Jordan h2 {
+.Jordan h1 {
     display: inline-block;
     margin: 10px;
-    font-size: 20px; 
+    font-size: 30px; 
+    text-align: center;
+}
+.Jordan h2 {
+    display: block;
+    margin: 10px;
+    font-size: 20px;
 }
 .Jordan p {
     display:block;
@@ -108,6 +116,7 @@ body {
 }
 
 .Work h2 {
+    font-size: 30px;
     display: block;
     text-align: center;
     padding-bottom: 50px;
@@ -117,7 +126,9 @@ body {
 .project img {
     display: flex;
     margin: 20px;
+    width: 100%;
     max-width: 550px;
+    height: auto;
     margin-right: 400px;
 
 }
@@ -125,7 +136,9 @@ body {
 .project1 img {
     display: flex;
     margin: 20px;
+    width: 100%;
     max-width: 550px;
+    height: auto;
 
 }
 
